@@ -6,24 +6,8 @@ It also includes a **Layer-2 Blockchain Threat Analysis Report** for security ev
 ---
 
 ##  Project Structure
-BT_Assignment4/
-├─ network/ # Fabric network configs & scripts
-│ ├─ crypto-config.yaml
-│ ├─ configtx.yaml
-│ ├─ docker-compose.yaml
-│ └─ scripts/
-│ ├─ startNetwork.sh
-│ ├─ createChannel.sh
-│ ├─ deployChaincode.sh
-│ └─ cleanNetwork.sh
-├─ chaincode/
-│ └─ product-chaincode/ # Node.js chaincode
-├─ app-scripts/ # CLI scripts to invoke/query chaincode
-│ └─ simulateLifecycle.sh
-├─ docs/
-│ └─ ThreatReport.docx
-├─ screenshots/ # Execution proof screenshots
-└─ README.md
+
+<img width="515" height="563" alt="image" src="https://github.com/user-attachments/assets/bec82825-5e01-44de-91bb-4f64ebd1b834" />
 
 
 ---
